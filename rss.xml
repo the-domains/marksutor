@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[marksutor]]></title>
         <description><![CDATA[marksutor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marksutor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 15:12:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 15:12:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marksutor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined097db42d-f184-42a8-8214-60a3761fe19b/index.html</link>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>First post on The Grid. Hoping to make this a beautiful home for all of my sound content over the next few years.</p></article>]]></description>
+            <link>https://thegrid.ai/marksutor/097db42d-f184-42a8-8214-60a3761fe19b/index.html</link>
             <guid isPermaLink="false">097db42d-f184-42a8-8214-60a3761fe19b</guid>
-            <pubDate>Tue, 01 Mar 2016 15:12:19 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 15:12:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
