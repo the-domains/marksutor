@@ -1,0 +1,28 @@
+name: marksutor
+favicon: null
+layout_spectrum: 0.8939347793348134
+typography_spectrum: 0.7360706347972155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.43306199624203146
+  lightness: 0.5050027708057314
+  saturation: 0.7961443229578435
+  rhythmicContrast: 0.05413616495206952
+purpose: []
